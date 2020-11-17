@@ -1,0 +1,5 @@
+Adam wanted send secret message how ever his lack of knowledge in cryptography made him use alternative method.
+He came up with a method which involves two identical files and include the message in one of these files.
+Although message seems too obivious to him so he encoded the files using binary-to-text encoding schemes that represent binary data in an ASCII string format by translating it into a radix-64 representation.
+He felt it is not enough so he grouped the files and put them inside tarballs over and over.
+Finally he felt that message is safe after hiding identity of the tarball. 
