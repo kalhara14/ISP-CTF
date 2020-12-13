@@ -1,0 +1,2 @@
+1.File used to be a .png but now it looks corrupted.
+2.If you think it is just one image you are wrong. Have you ever heard of "Hiding an image inside another"?
